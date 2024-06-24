@@ -1,3 +1,5 @@
+Blends an Object into a Background image using Gradient Domain Fusion
+
 ### Example 1
 
 **Background**            |  **Object**
