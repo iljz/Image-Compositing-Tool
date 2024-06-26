@@ -1,4 +1,4 @@
-Blends an Object into another image using Gradient Domain Fusion
+Blends an object into another image using Gradient Domain Fusion
 
 ### Example 1
 
